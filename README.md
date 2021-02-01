@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="piyush9311's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=piyush9311&show_icons=true&hide_border=true" />
+  <img align="left" alt="piyush9311's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=piyush9311&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 </details>
 
