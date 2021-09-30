@@ -59,11 +59,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="piyush9311's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=piyush9311&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img align="left" alt="piyush9311's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=piyush9311&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
 
 </details>
 
 [website]: https://piyush9311.github.io/portfolio_site/
 [instagram]: https://instagram.com/piyush-kumar_3127
-[linkedin]: https://linkedin.com/in/piyush-kumar
+[linkedin]: https://www.linkedin.com/in/piyush-kumar-8687a3191/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
