@@ -6,7 +6,7 @@
 - 🔭 I just launched my portfolio: [Personal Portfolio!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other open source contributors
-- 🥅 2021 Goals: Contribute more to Open Source projects and an Iternship
+- 🥅 2021 Goals: Contribute more to Open Source projects and an Internship
 - ⚡ Fun fact: I love to play!
 
 ### Spotify Playing 🎧
