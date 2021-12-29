@@ -63,7 +63,7 @@
 
 </details>
 
-[website]: https://piyush9311.github.io/portfolio_site/
+[website]: https://www.piyush9311.study/
 [instagram]: https://instagram.com/piyush-kumar_3127
 [linkedin]: https://www.linkedin.com/in/piyush-kumar-8687a3191/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
