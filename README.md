@@ -2,7 +2,7 @@
 
 Backend engineer building high-throughput, real-time systems at startup speed. Currently **SDE2 at Blinkit**, working on checkout systems and search/RAG for a platform serving millions of daily users. Previously built subscription and loyalty systems at **Zomato**.
 
-I work mostly in **Golang, Python**, with backend depth in distributed systems, event-driven architecture (Kafka), and — more recently — LLM/RAG-based search. Comfortable across the stack (React, Node.js, Django) but backend and systems design is where I spend most of my time.
+I work mostly in **Golang, Python, and JavaScript**, with backend depth in distributed systems, event-driven architecture (Kafka), and — more recently — LLM/RAG-based search. Comfortable across the stack (React, Node.js, Django) but backend and systems design is where I spend most of my time.
 
 Always happy to connect on backend engineering, distributed systems, or applied LLM work.
 
@@ -16,11 +16,6 @@ Piyush
 <br />
 
 ---
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="piyush9311's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=piyush9311&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
-</details>
 
 [gmail]: mailto:kumarpiyushsingh9311@gmail.com
 [linkedin]: https://www.linkedin.com/in/piyush-kumar-8687a3191/
