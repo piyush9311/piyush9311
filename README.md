@@ -1,43 +1,26 @@
-### Hello there, Myself Piyush Kumar 👋
+### Hey, I'm Piyush Kumar 👋
 
+Backend engineer building high-throughput, real-time systems at startup speed. Currently **SDE2 at Blinkit**, working on checkout systems and search/RAG for a platform serving millions of daily users. Previously built subscription and loyalty systems at **Zomato**.
 
-I'm a passionate Software Developer specializing in Full Stack Web Applications and Backend Engineering. I have expertise in languages like C++, Python, Golang, and JavaScript, along with frameworks like React, Node JS, Django, and SpringBoot. I'm skilled in working with databases such as MongoDB, MySql, and ElasticDB. Currently, I'm an SDE Intern at Limechat.ai and pursuing my final year of undergraduate studies at the Indian Institute of Information Technology, Sri City. Let's connect to discuss exciting opportunities or collaborate on a project.
+I work mostly in **Golang, Python**, with backend depth in distributed systems, event-driven architecture (Kafka), and — more recently — LLM/RAG-based search. Comfortable across the stack (React, Node.js, Django) but backend and systems design is where I spend most of my time.
 
-Best regards,
-<br />
+Always happy to connect on backend engineering, distributed systems, or applied LLM work.
+
+Best,
 Piyush
 
-
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-
+[<img align="left" alt="Piyush Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Piyush Kumar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 <br />
 <br />
 
 ---
 
-<!--<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--1.  Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2.  Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4.  Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-<!--</details>-->
-
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="piyush9311's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=piyush9311&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
-
 </details>
 
-
-[gmail]: kumarpiyushsingh9311@gmail.com
+[gmail]: mailto:kumarpiyushsingh9311@gmail.com
 [linkedin]: https://www.linkedin.com/in/piyush-kumar-8687a3191/
